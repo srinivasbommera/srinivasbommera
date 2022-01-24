@@ -1,4 +1,5 @@
-age salary  gender  country purchased
-18  20000   male    germany N
-19  10000   female  india   N
-20  50000   male    usa     Y
+age,salary,gender,country,purchased
+18,20000,male,germany,N
+19,10000,female,india,N
+20,50000,male,usa,Y
+30,30000,female,russia,Y
